@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+langchain>=1.0
+langchain-anthropic
+pydantic
+langsmith
+python-dotenv
